@@ -12,7 +12,7 @@ cd /home/ubuntu/testProj/
 # activate virtual environment
 python3 -m venv env
 source env/bin/activate
-
+pip install gunicorn
 # install requirements.txt
 pip install -r /home/ubuntu/testProj/requirements.txt
 
