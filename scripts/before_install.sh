@@ -18,4 +18,4 @@
 # pip install --user --upgrade virtualenv
 
 # # delete app
-# sudo rm -rf /home/ubuntu/django-aws_cicd
+sudo rm -rf /home/ubuntu/testProj
