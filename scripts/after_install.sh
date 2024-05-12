@@ -10,7 +10,7 @@
 cd /home/ubuntu/testProj/
 
 # activate virtual environment
-# python3 -m venv venv
+python3 -m venv env
 source env/bin/activate
 
 # install requirements.txt
